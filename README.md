@@ -12,4 +12,4 @@ Added features :
 4. kill miner when back form iddle.
 
 
-
+https://youtu.be/hhKHFx6syHQ
